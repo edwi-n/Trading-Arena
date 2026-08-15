@@ -1,7 +1,5 @@
 # Trading Arena - Strategic Stock Battle
 
-> **Hackathon Category:** Data in Finance - *Financial markets generate vast amounts of data, yet turning that information into meaningful insight remains a challenge. Build a tool using financial data to inform decision-making or identify opportunities.*
-
 **Trading Arena** is a two-player strategy card game where players manage stock portfolios and deploy derivatives (Puts, Calls) to attack opponents and defend their Net Worth. It uses **real historical stock data** (10 years via Yahoo Finance), **Black-Scholes option pricing**, and a **C++ AI engine** - turning financial market analysis into a competitive, strategic experience.
 
 ---
